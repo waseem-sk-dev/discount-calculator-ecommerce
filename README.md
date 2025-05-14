@@ -47,8 +47,8 @@ const orderItems = [
   { name: "Mouse", quantity: 10, price: 500 },
   { name: "Keyboard", quantity: 6, price: 1500 }
 ];
----
 ```
+---
 ## Sample Output
 ```js
 Order processed. Total amount after discounts: ₹171900
