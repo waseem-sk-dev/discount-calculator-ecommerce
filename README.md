@@ -48,12 +48,16 @@ const orderItems = [
   { name: "Keyboard", quantity: 6, price: 1500 }
 ];
 ---
-<hr>
-<h2>🧾 Sample Output</h2>
-<pre><code class="language-ts">
-Order processed. Total amount after discounts: ₹171900
-</code></pre>
-</hr>
+## Sample Input
+
+```js
+const orderItems = [
+  { name: "Laptop", quantity: 3, price: 50000 },
+  { name: "Mouse", quantity: 10, price: 500 },
+  { name: "Keyboard", quantity: 6, price: 1500 }
+];
+---
+
 
 
 
